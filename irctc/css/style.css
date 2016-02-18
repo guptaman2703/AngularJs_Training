@@ -1,0 +1,38 @@
+.navbar-inverse {
+background-color: #ccc7d2 !important;
+border-color: #ccc !important;
+}
+.ir-logo img{width: 5% !important; margin-left: 5% !important;}
+.ir-nav a{color: #2C2B2B !important;}
+.ir-nav a:hover{color: #000075 !important;}
+.ir-login{width: 50%;
+margin: 0 auto;
+border: 1px solid #000075;
+padding: 5px 10px 20px 12px;}
+
+.ir-lg-heading {
+background-color: #000075 !important;
+border-radius: 5px !important;
+padding: 5px !important;
+color: #fff !important;
+font-size: 20px !important;
+}
+.ir-login .ir-input {
+width: 75% !important;
+margin: 15px 0 !important;
+}
+
+.ir-loginbtn {
+width: 110px !important;
+}
+
+.ir-lgbtn {
+padding: 5px;
+background-color: #000075;
+}   
+.ir-fp-signup {
+	padding:15px 0;
+}
+.forgot_pass {float: right;}
+
+.noacc{float: left;}
